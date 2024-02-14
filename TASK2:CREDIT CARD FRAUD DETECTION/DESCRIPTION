@@ -1,3 +1,4 @@
+DATASET LINK:https://www.kaggle.com/datasets/kartik2112/fraud-detection
 # What we will be doing throughout the process
 
 1. **Understand the Problem**: Credit card fraud detection aims to identify transactions that are not legitimate, which can include unauthorized charges, stolen cards, or other fraudulent activities.
