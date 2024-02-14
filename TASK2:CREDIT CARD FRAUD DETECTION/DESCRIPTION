@@ -3,6 +3,7 @@
 1. **Understand the Problem**: Credit card fraud detection aims to identify transactions that are not legitimate, which can include unauthorized charges, stolen cards, or other fraudulent activities.
 
 2. **Data Collection**: Obtain a dataset containing information about credit card transactions. This dataset should include features such as transaction amount, time, location, type of transaction, and other relevant attributes.
+Note:We have the dataset from kaggle for our problem.
 
 3. **Data Exploration and Preprocessing**:
    - Explore the dataset to understand its structure, feature distributions, and class imbalances (if any).
